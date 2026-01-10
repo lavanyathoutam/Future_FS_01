@@ -2,7 +2,7 @@
 This repo contains a portfolio resume that showcases examples of your work along with the usual resume information about your work experience.
 It was created with HTML, CSS and Javascript. Its is lightweight and fully responsive, as well as comes with the Bootstrap.
 
-To view a live demo, [click here](https://bharadhwaj-g.github.io/portfolio/)
+To view a live demo, [click here](https://github.com/lavanyathoutam/Future_FS_01/edit/main/portfolio2/internal-portofolio/)
 
 ## Features
 * Easy to integrate
@@ -25,5 +25,6 @@ To view a live demo, [click here](https://bharadhwaj-g.github.io/portfolio/)
 * Relesed stable version with basic content
 * Added skills section
 ## License
+
 
 Completely free (MIT)! See [LICENSE.md](LICENSE.md) for more.
